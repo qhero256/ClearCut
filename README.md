@@ -53,7 +53,7 @@ Es vital para leer y escribir video. Sin esto, el script no funcionará.
 * **Linux (Ubuntu/Debian):**
     * Abre la terminal y escribe: `sudo apt update && sudo apt install ffmpeg`
 
-### 3. Git (Opcional, para descargar este repo)
+### 3. Git
 * Descarga e instala desde [git-scm.com](https://git-scm.com/).
 
 ### 4. Editor de Código
@@ -181,7 +181,7 @@ It’s vital for reading and writing video. Without this, the script will not wo
 * **Linux (Ubuntu/Debian):**
     * Open Terminal and run: `sudo apt update && sudo apt install ffmpeg`
 
-### 3. Git (Optional, to download this repo)
+### 3. Git
 * Download and install it from [git-scm.com](https://git-scm.com/).
 
 ### 4. Code Editor
